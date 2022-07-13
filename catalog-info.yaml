@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: git-flow-pedepronto
+  annotations:
+    github.com/project-slug: Onyo/git-flow-pedepronto
+spec:
+  type: other
+  lifecycle: unknown
+  owner: r0-team
