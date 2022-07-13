@@ -1,0 +1,7 @@
+site_name: Git Flow Pede Pronto
+repo_url: https://github.com/Onyo/git-flow-pedepronto.git
+plugins:
+  - techdocs-core
+nav:
+  - Home: index.md
+#  - About: about.md
