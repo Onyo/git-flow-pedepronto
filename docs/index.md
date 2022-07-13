@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Doc. Git flow Pede Pronto
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Para termos um fluxo fluído de desenvolvimento e deploy definomos um padrão de gerenciamente de no git.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+O padrão adotado tem semalhança com o Github flow, porém com adaptações para o nosso
+cenário na Pede Pronto. 
