@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: git-flow-pedepronto
   annotations:
-    github.com/project-slug: Onyo/git-flow-pedepronto
+   backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
