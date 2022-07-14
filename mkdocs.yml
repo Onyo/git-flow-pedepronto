@@ -5,7 +5,8 @@ plugins:
 
 theme:
   name: 'material'
-  
+docs:
+  - static/img/git-flow.png
 nav:
   - Home: index.md
   - Git flow pede Pronto: git_flow.md
