@@ -3,7 +3,9 @@ repo_url: https://github.com/Onyo/git-flow-pedepronto.git
 plugins:
   - techdocs-core
 
-
+theme:
+  name: 'material'
+  
 nav:
   - Home: index.md
   - Git flow pede Pronto: git_flow.md
