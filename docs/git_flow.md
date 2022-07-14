@@ -27,6 +27,7 @@ Ex.: feature/SER-61
 Toda **hotfix** e **bugfix** são filhos da **main**, e temo como padrão de nomencalatura:
 
 - hotfix/{Identicador do Jira da estória}
+
 - bugfix/{Identicador do Jira da estória}
 
 OBS: O merge precisa ser feito tanto na **main** quanto na **develop**
