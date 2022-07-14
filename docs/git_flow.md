@@ -17,5 +17,7 @@ develop filha da main.
 Toda feature é filha da develop, e temo como padrão de nomencalatura:
 - feature/{Identicado do Jira da estória}
  Ex.: featire/SER-43
+
     SER: squad Serviços Core
+
     43: numero da estória
