@@ -18,7 +18,7 @@ Toda feature é filha da develop, e temo como padrão de nomencalatura:
 - feature/{Identicador do Jira da estória}
   ![Jira Estória](assets/img/jira_task.png)
 
-Ex.:
+Ex.: feature/SER-61
 
     SER: squad Serviços Core
 
