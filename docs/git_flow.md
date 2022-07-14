@@ -1,3 +1,3 @@
 # Git Flow Pede Pronto
 
-![Alt text](/static/img/git-flow.png "Optional title")
+![Alt text](https://github.com/Onyo/git-flow-pedepronto/blob/main/static/img/git-flow.png)
