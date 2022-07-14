@@ -2,8 +2,10 @@ site_name: Git Flow Pede Pronto
 repo_url: https://github.com/Onyo/git-flow-pedepronto.git
 plugins:
   - techdocs-core
-docs:
-  - img: static/img/git-flow.png
+
+docs/
+  img/
+    static/img/git-flow.png
 
 
 nav:
