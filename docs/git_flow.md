@@ -28,4 +28,4 @@ Toda **hotfix** e **bugfix** são filhos da **main**, e temo como padrão de nom
 - hotfix/{Identicador do Jira da estória}
 - bugfix/{Identicador do Jira da estória}
 
-OBS: O merge precisa ser feito tanto na **main** e na **develop**
+OBS: O merge precisa ser feito tanto na **main** quanto na **develop**
