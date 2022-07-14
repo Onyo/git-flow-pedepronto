@@ -15,9 +15,11 @@ A develop e a main, como no git flow são as principais. Sendo a
 develop filha da main.
 
 Toda feature é filha da develop, e temo como padrão de nomencalatura:
-- feature/{Identicado do Jira da estória}
- Ex.: featire/SER-43
+- feature/{Identicador do Jira da estória}
+  ![Jira Estória](assets/img/jira_task.png)
+
+Ex.:
 
     SER: squad Serviços Core
 
-    43: numero da estória
+    61: numero da estória
