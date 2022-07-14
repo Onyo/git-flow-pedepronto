@@ -5,6 +5,6 @@
 
 ## Fluxo Pede Pronto 
 
-Uma boa gestão de versionamento nos ajuda ter uma fluidez entre as tribos, melhora o processo de 
+Uma boa gestão de versionamento nos ajuda ter uma fluidez entre as tribos, e melhora o processo de 
 deploy e testes das aplicações. 
 
