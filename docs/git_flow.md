@@ -1,2 +1,2 @@
 # Git Flow Pede Pronto
-![Screenshot](img/git-flow.png)
+![Image title](https://github.com/Onyo/git-flow-pedepronto/blob/main/static/img/git-flow.png)
