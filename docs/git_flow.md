@@ -25,6 +25,7 @@ Ex.: feature/SER-61
     61: numero da estória
 
 Toda **hotfix** e **bugfix** são filhos da **main**, e temo como padrão de nomencalatura:
+
 - hotfix/{Identicador do Jira da estória}
 - bugfix/{Identicador do Jira da estória}
 
